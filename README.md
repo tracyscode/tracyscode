@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @tracyscode
-- 🌸 I’m interested in software development and am an aspiring software engineer. 
-- 🐍 I’m currently learning HTML, CSS, JavaScript & Python. 
-- 🍓 I'm passionate about organic farming and living a sustainable lifestyle. 
+- ✌🏼 Hi, I’m @tracyscode
+- 🌸 I’m interested in software development and am an aspiring software engineer 
+- 🐍 I’m currently learning HTML, CSS, JavaScript & Python
+- 💻 My current learning goals are to: 
+              - Create a food to fork website where folx can purchase organice veggies
+              - Create a web application where folx can find celiac-friendly restaurants in their area 
+- 🎓 I have my B.A. in Ecology and Evolutionary Biology 
+- 🍓 I'm passionate about organic farming and living a sustainable lifestyle
+- ⛺ In my freetime, I love exercising, hiking, camping, writing & reading
+- 🎮 My favorite videogame is The Legend of Zelda: Breath of the Wild 
+- 
 
 <!---
 tracyscode/tracyscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
