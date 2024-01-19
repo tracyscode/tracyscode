@@ -1,7 +1,9 @@
-- ✌🏼 Hi, I’m @tracyscode
-- 🍓 I'm passionate about organic farming & living a sustainable lifestyle
-- ⛺ In my freetime, I love exercising, hiking, camping, writing & reading
-- 🎮 My favorite videogame is The Legend of Zelda: Breath of the Wild 
+Hello, I'm Tracy!
+
+When I'm not busy studying, I am writing, reading, exercising, hiking or playing Tears of the Kingdom. 
+
+I'm patiently waiting for the release of the new Skryrim game. 
+
 
 
 <!---
